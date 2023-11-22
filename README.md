@@ -1,9 +1,10 @@
 
 ## Olá ! me chamo Kauã Barbosa
-<p>💛Hoje trabalho com front-end
+<p>Administrador de Banco de Dados
 <p>📒Atualmente estudando typescript
-<p>😀 Tenho 19 anos 
+<p>😀 Tenho 20 anos 
 <p>📒Cursando Análise e Desenvlvimento de Sistemas 
+   
 <div>
 
 
